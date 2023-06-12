@@ -426,6 +426,18 @@
       "tags": [
         "philosophy"
       ]
+    } ,
+        {
+      "title": "财务管理",
+      "subtitle": "Created by MENACE for the Hackathon S2",
+      "description": "The goal of the game is to develop an understanding of your financials and give tailored advice on how to improve your finances. After you provide me with all the necessary and relevant information, I will help you improve your situation through a series of very specific and well balanced questions. Depending on the information you provide, I will ask different follow-up questions to help you improve your financial situation.",
+      "descn": "你将提供一些关于你财务情况的信息，我会根据这些信息，通过提出一系列具体、均衡的问题，为你提供定制的财务建议。",
+      "wrapper": "首先，我需要知道一些关于你的信息：\n\"%s\"",
+      "remark": "改善你的财务状况，提供定制的财务建议。",
+      "tags": [
+        "game",
+        "finance"
+      ]
     }
   ]
 }
